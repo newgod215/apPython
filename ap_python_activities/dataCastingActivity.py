@@ -1,10 +1,21 @@
+#type()function will return the data type of the value
+numberOfcerealBoxes="10.45"
+#print(type(numberOfcerealBoxes))
+
+
 # convert the following datatypes into floats.
-12
-100
+a=float(12)
+b=float(100)
+
+print (a)
+print (b)
 
 # convert the following floats into integers.
-12.34
-23.33
+int(12.34)
+int(23.33)
+
+print(int(12,34))
+print(int(23.33))
 
 # modify the code below to print an integer number. 
 num_one = 20
