@@ -1,0 +1,53 @@
+MONDAY ASYNC WORK REPORT - OCTOBER 16TH,2023.
+
+Do some research and find a piece of software that is built with Python. 
+The software can be a video game, a website, application, or new technology. Once you've found
+a program that was built with Python, conduct research create a report on what the software is,
+what it does, how the software was built, and most importantly how Python was used. 
+Your report should be atleast 700 words long. You will also need to provide
+citations for where you got your information - you may reference vidoes, 
+blogposts, websites, and articles. Please use MLA citation style.
+Your report will need atleast three (3) citations. 
+Your report will need to be submitted by the end of class.
+
+For your report, you may use a regular text file, just like how this file is formatted.
+text files are made using the .txt extnetion. 
+
+Example: iansReport.txt
+
+
+NO AI GENERATED RESOURCES/ LINKS 
+
+WHAT IS  MLA STYLE CITATION?
+MLA stands for Modern Language Association. As you go further in your academic, 
+and potentially professional career you'll need to conduct research and reference 
+where you got your information. 
+This is done for a variety of reasons, such as:
+- allows your reader to see where you got your information from.
+- gives credit to the people and organizations that have done the research.
+- protects the writer from claims of plagarizing their work. 
+
+MLA is written as followed:
+full name of the author, title of article/ video, date article was published, 
+website link for article/video
+
+Example:
+John Doe, "Article about code", the coding newspaper, 10 October, 2023.
+www.website.com/article
+
+website to reference for MLA style citation: 
+https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_sample_works_cited_page.html
+
+
+
+
+
+Disney’s ToonTown Online was developed with Python and uses the Panda3D game engine for its graphics. It’s an MMORPG set in a cartoon-based world where you get to explore and fight.  You can tell that it’s aimed at a younger demographic, but it is also a well-made game and a great example of the flexibility possible using Python. below is a link to the codespace where the game was made
+
+https://github.com/toontowninfinite/src/commit/b235034eea0176fb5ee58e2613428421d3b400cd#diff-4ab4472a6cd64ac737fe59e29f7dcf70af315232522136bbe1ffa5e440db3303
+
+If you were a Game Programmer for Toontown Rewritten, you will be working with the game directly to implement content, introduce bug fixes, and provide technical assistance for issues relating to the game’s function. You may also be contributing to brand new gameplay where creativity is your greatest asset. "We are searching for programmers who have not only the understanding necessary to implement ideas but the creativity to approach difficult problems with unique solutions". 
+The game is primarily written in Python. Some of the services use languages such as Java and C++, but almost everything a Game Programmer writes is in Python.
+Game Programmers are involved with many aspects of the game. In addition to the game itself, programmers are involved with the development of other internal services to keep the game running.
+It seems like the game shut down in 2013 around august
+Disney's Toontown Online started in 2003 as the first family-oriented MMO of its kind. Unfortunately, much to the player's dismay, Disney announced the game's closure in August of 2013 due to budget cuts and changes in management at Disney Online.
