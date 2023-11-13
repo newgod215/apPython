@@ -7,4 +7,4 @@
 4.Are there any apps that similar to your program?
     Mt function is similar to the hello world program
 5.Who is this program designed for? Please describe the user who will be useing the program by describing three(3) things about them and how it relates to them using the program.
-    Anyone that wishes to use my program.
+    Anyone that wishes to use my program
